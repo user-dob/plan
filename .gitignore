@@ -1,0 +1,8 @@
+# dependencies
+node_modules
+
+# misc
+*.idea/
+*.vscode/
+
+**/package-lock.json
